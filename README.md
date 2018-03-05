@@ -1,6 +1,8 @@
 # Telecoding-Shield-for-Raspberry-Pi-Zero
 Telecoding Shield for Raspberry Pi Zero is a module that can mount 920 MHz band LoRa module, OSD and DAC chip.
-Power supply to Raspberry Pi Zero can also be done from this shield in the range of 5V to 14V. The current can supply up to 6A.
+Power supply to Raspberry Pi Zero can also be done from this shield in the range of 5V to 14V.
+If you change the grade of the DC - DC converter, such as changing from Murata's "OKL-T/3-W12N-C" to "OKL-T/6-W12N-C", 
+you can select the current value required for your system. The current can be supplied up to 6 A, it is possible to operate rasberry pi 3.
 
 <img src="https://github.com/siaflab/Telecoding-Shield-for-Raspberry-Pi-Zero/blob/master/brd_img.png" alt="brd_img" width="640" title="brd_img">
 
