@@ -1,5 +1,6 @@
 # Telecoding-Shield-for-Raspberry-Pi-Zero
 Telecoding Shield for Raspberry Pi Zero is a module that can mount 920 MHz band LoRa module, OSD and DAC chip.
+Power supply to Raspberry Pi Zero can also be done from this shield.
 
 <img src="https://github.com/siaflab/Telecoding-Shield-for-Raspberry-Pi-Zero/blob/master/brd_img.png" alt="brd_img" width="640" title="brd_img">
 
