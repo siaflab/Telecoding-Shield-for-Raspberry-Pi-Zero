@@ -11,6 +11,7 @@ Telecoding Shield for Raspberry Pi Zero is a module that can mount 920 MHz band 
 This board fits either of the following LoRa modules.
 - [interplan IM920C](http://www.interplan.co.jp)
 - [rflink RM-92A](http://www.rflink.co.jp/)
+
 The frequency with LoRa's unlicensed band can communicate varies depending on the country's rule.
 
 ## CREDIT
