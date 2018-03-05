@@ -18,8 +18,6 @@ The frequency with LoRa's unlicensed band can communicate varies depending on th
 <img src="https://github.com/siaflab/Telecoding-Shield-for-Raspberry-Pi-Zero/blob/master/Telecoding-Shield_img_brd.png" alt="Telecoding-Shield_img_brd" width="640" title="Telecoding-Shield_img_brd">
 Refer to the <a href="https://www.homepage-tukurikata.com/">partslist</a> for other mounting parts.
 
-[partslist](https://github.com/siaflab/Telecoding-Shield-for-Raspberry-Pi-Zero/blob/master/Hardware/partslist)
-
 ## CREDIT
 Telecoding Shield for Raspberry Pi Zero licensed under MIT License.  
 https://github.com/siaflab/Telecoding-Shield-for-Raspberry-Pi-Zero
