@@ -8,7 +8,7 @@ Telecoding Shield for Raspberry Pi Zero is a module that can mount 920 MHz band 
 - OSD chip: [MAX7456](https://datasheets.maximintegrated.com/en/ds/MAX7456.pdf)
 - DAC chip: [PCM5102](http://masterandrey.com/files/pcm5102.pdf)
 
-This board fits either of the following LoRa modules.
+This board can mount either of the following LoRa modules.
 - [interplan IM920C](http://www.interplan.co.jp)
 - [rflink RM-92A](http://www.rflink.co.jp/)
 
