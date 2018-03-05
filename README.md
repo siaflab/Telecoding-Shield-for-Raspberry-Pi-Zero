@@ -11,9 +11,9 @@ Telecoding Shield for Raspberry Pi Zero is a module that can mount 920 MHz band 
 - DAC chip: [PCM5102](http://masterandrey.com/files/pcm5102.pdf)
 
 This board can mount either of the following LoRa modules.
+The frequency with LoRa's unlicensed band can communicate varies depending on the country's rule.
 - [interplan IM920C](http://www.interplan.co.jp)
 - [rflink RM-92A](http://www.rflink.co.jp/)
- The frequency with LoRa's unlicensed band can communicate varies depending on the country's rule.
 
 <img src="https://github.com/siaflab/Telecoding-Shield-for-Raspberry-Pi-Zero/blob/master/Telecoding-Shield_img_brd.png" alt="Telecoding-Shield_img_brd" width="640" title="Telecoding-Shield_img_brd">
 Refer to the partslist for other mounting parts.
